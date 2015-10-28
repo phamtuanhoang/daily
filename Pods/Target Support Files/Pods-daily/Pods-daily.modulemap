@@ -1,0 +1,6 @@
+framework module Pods_daily {
+  umbrella header "Pods-daily-umbrella.h"
+
+  export *
+  module * { export * }
+}
